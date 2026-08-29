@@ -1,0 +1,9 @@
+# Pinned to versions verified to work together.
+# NOTE: mcp>=2.0 renamed FastMCP -> MCPServer and restructured the SDK,
+# so we pin <2.0 to keep the widely-documented FastMCP API used below.
+mcp[cli]==1.29.1
+langchain-mcp-adapters>=0.1.0
+langgraph>=0.2.0
+langchain-openai>=0.2.0
+python-dotenv>=1.0.0
+pypdf>=4.0.0

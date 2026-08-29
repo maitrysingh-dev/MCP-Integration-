@@ -1,0 +1,14 @@
+# Secrets — never commit your real API keys
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Sample data you don't need to publish
+resumes/
+
+# OS/editor clutter
+.DS_Store
+.vscode/

@@ -1,0 +1,32 @@
+Ravi Silva
+Email: ravi.silva@email.com | Phone: (555) 010-7049
+
+SUMMARY
+UX Designer with 8 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+UX Designer | Vertex Systems | 2 years
+- Built and maintained systems using Prototyping, Wireframing, Design Systems
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+UX Designer | Solace Digital | 3 years
+- Built and maintained systems using HTML/CSS, User Research, Figma
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+UX Designer | Bluepeak Labs | 3 years
+- Built and maintained systems using Figma, Design Systems, Prototyping
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.A. in Design, State University, 2015
+
+SKILLS
+Figma, Design Systems, Wireframing, User Research, HTML/CSS, Prototyping
+
+PROJECTS
+- Led a project applying User Research to improve system reliability
+- Contributed to open-source tooling related to Design Systems

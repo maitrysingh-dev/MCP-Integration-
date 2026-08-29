@@ -1,0 +1,32 @@
+Ana Cohen
+Email: ana.cohen@email.com | Phone: (555) 010-5930
+
+SUMMARY
+Results-driven Software Engineer with 9 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+Software Engineer | Cobalt Software | 3 years
+- Built and maintained systems using Kubernetes, Python, REST APIs
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Ridgeline AI | 3 years
+- Built and maintained systems using REST APIs, Python, Docker
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Horizon Data | 3 years
+- Built and maintained systems using REST APIs, Git, Docker
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Science, State University, 2012
+
+SKILLS
+SQL, Docker, Python, REST APIs, Kubernetes, Git
+
+PROJECTS
+- Led a project applying Kubernetes to improve system reliability
+- Contributed to open-source tooling related to SQL

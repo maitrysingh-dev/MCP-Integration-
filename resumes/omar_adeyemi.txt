@@ -1,0 +1,27 @@
+Omar Adeyemi
+Email: omar.adeyemi@email.com | Phone: (555) 010-2489
+
+SUMMARY
+Detail-oriented Data Scientist with 5 years of professional experience specializing in PyTorch and scikit-learn.
+
+EXPERIENCE
+Data Scientist | Fernwood Analytics | 2 years
+- Built and maintained systems using TensorFlow, Statistics, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Horizon Data | 3 years
+- Built and maintained systems using Pandas, TensorFlow, Statistics
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Data Science, State University, 2019
+
+SKILLS
+PyTorch, Pandas, SQL, Statistics, TensorFlow, scikit-learn
+
+PROJECTS
+- Led a project applying PyTorch to improve system reliability
+- Contributed to open-source tooling related to Pandas

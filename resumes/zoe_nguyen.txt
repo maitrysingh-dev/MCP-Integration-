@@ -1,0 +1,32 @@
+Zoe Nguyen
+Email: zoe.nguyen@email.com | Phone: (555) 010-5315
+
+SUMMARY
+Detail-oriented ML Engineer with 7 years of professional experience specializing in Deep Learning and PyTorch.
+
+EXPERIENCE
+ML Engineer | Nimbus Tech | 2 years
+- Built and maintained systems using Deep Learning, AWS, NLP
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Ridgeline AI | 2 years
+- Built and maintained systems using Deep Learning, AWS, MLOps
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Vertex Systems | 3 years
+- Built and maintained systems using NLP, Deep Learning, AWS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2016
+
+SKILLS
+Deep Learning, MLOps, AWS, NLP, PyTorch
+
+PROJECTS
+- Led a project applying PyTorch to improve system reliability
+- Contributed to open-source tooling related to Deep Learning

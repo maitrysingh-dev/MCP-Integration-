@@ -1,0 +1,32 @@
+Sara Lopez
+Email: sara.lopez@email.com | Phone: (555) 010-8342
+
+SUMMARY
+Detail-oriented Data Scientist with 8 years of professional experience specializing in Pandas and PyTorch.
+
+EXPERIENCE
+Data Scientist | Cobalt Software | 2 years
+- Built and maintained systems using SQL, Pandas, Statistics
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Bluepeak Labs | 3 years
+- Built and maintained systems using Statistics, scikit-learn, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Horizon Data | 3 years
+- Built and maintained systems using PyTorch, scikit-learn, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Data Science, State University, 2016
+
+SKILLS
+Pandas, Statistics, TensorFlow, scikit-learn, SQL, PyTorch
+
+PROJECTS
+- Led a project applying Pandas to improve system reliability
+- Contributed to open-source tooling related to TensorFlow

@@ -1,0 +1,22 @@
+Yuki Khan
+Email: yuki.khan@email.com | Phone: (555) 010-6977
+
+SUMMARY
+Results-driven ML Engineer with 2 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+ML Engineer | Fernwood Analytics | 2 years
+- Built and maintained systems using PyTorch, Python, Machine Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2021
+
+SKILLS
+MLOps, Deep Learning, PyTorch, Python, Machine Learning
+
+PROJECTS
+- Led a project applying PyTorch to improve system reliability
+- Contributed to open-source tooling related to PyTorch

@@ -1,0 +1,22 @@
+Jordan Johansson
+Email: jordan.johansson@email.com | Phone: (555) 010-7755
+
+SUMMARY
+Detail-oriented Product Manager with 1 years of professional experience specializing in Agile and Roadmapping.
+
+EXPERIENCE
+Product Manager | Vertex Systems | 1 years
+- Built and maintained systems using Stakeholder Management, Roadmapping, A/B Testing
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+MBA, State University, 2023
+
+SKILLS
+Agile, Stakeholder Management, Jira, Product Strategy, A/B Testing, Roadmapping
+
+PROJECTS
+- Led a project applying Stakeholder Management to improve system reliability
+- Contributed to open-source tooling related to Roadmapping

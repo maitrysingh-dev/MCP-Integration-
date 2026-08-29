@@ -1,0 +1,22 @@
+Zoe Kowalski
+Email: zoe.kowalski@email.com | Phone: (555) 010-5345
+
+SUMMARY
+Results-driven Software Engineer with 2 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+Software Engineer | Vertex Systems | 2 years
+- Built and maintained systems using SQL, REST APIs, Kubernetes
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Science, State University, 2019
+
+SKILLS
+REST APIs, Docker, Git, SQL, Java, Kubernetes
+
+PROJECTS
+- Led a project applying Git to improve system reliability
+- Contributed to open-source tooling related to SQL

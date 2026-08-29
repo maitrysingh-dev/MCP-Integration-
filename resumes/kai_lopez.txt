@@ -1,0 +1,32 @@
+Kai Lopez
+Email: kai.lopez@email.com | Phone: (555) 010-6378
+
+SUMMARY
+Results-driven DevOps Engineer with 11 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+DevOps Engineer | Solace Digital | 3 years
+- Built and maintained systems using Terraform, Docker, Python
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+DevOps Engineer | Ridgeline AI | 4 years
+- Built and maintained systems using Kubernetes, Terraform, AWS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+DevOps Engineer | Nimbus Tech | 4 years
+- Built and maintained systems using AWS, Terraform, Python
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Engineering, State University, 2011
+
+SKILLS
+Linux, Terraform, Kubernetes, Python, CI/CD, AWS, Docker
+
+PROJECTS
+- Led a project applying Docker to improve system reliability
+- Contributed to open-source tooling related to Linux

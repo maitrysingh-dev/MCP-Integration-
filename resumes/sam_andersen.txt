@@ -1,0 +1,32 @@
+Sam Andersen
+Email: sam.andersen@email.com | Phone: (555) 010-9728
+
+SUMMARY
+UX Designer with 12 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+UX Designer | Fernwood Analytics | 4 years
+- Built and maintained systems using HTML/CSS, Prototyping, User Research
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+UX Designer | Horizon Data | 4 years
+- Built and maintained systems using User Research, Figma, HTML/CSS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+UX Designer | Bluepeak Labs | 4 years
+- Built and maintained systems using Wireframing, User Research, Prototyping
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.A. in Design, State University, 2009
+
+SKILLS
+User Research, Prototyping, Figma, HTML/CSS, Wireframing
+
+PROJECTS
+- Led a project applying Figma to improve system reliability
+- Contributed to open-source tooling related to User Research

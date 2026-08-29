@@ -1,0 +1,32 @@
+Aisha Johansson
+Email: aisha.johansson@email.com | Phone: (555) 010-1400
+
+SUMMARY
+Detail-oriented Data Scientist with 7 years of professional experience specializing in scikit-learn and Python.
+
+EXPERIENCE
+Data Scientist | Bluepeak Labs | 2 years
+- Built and maintained systems using Statistics, Pandas, TensorFlow
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Ridgeline AI | 2 years
+- Built and maintained systems using scikit-learn, PyTorch, Statistics
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Horizon Data | 3 years
+- Built and maintained systems using Python, PyTorch, TensorFlow
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Data Science, State University, 2017
+
+SKILLS
+scikit-learn, PyTorch, Statistics, Machine Learning, Pandas, TensorFlow, Python
+
+PROJECTS
+- Led a project applying PyTorch to improve system reliability
+- Contributed to open-source tooling related to Machine Learning

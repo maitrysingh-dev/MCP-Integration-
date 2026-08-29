@@ -1,0 +1,27 @@
+Sara Kowalski
+Email: sara.kowalski@email.com | Phone: (555) 010-4770
+
+SUMMARY
+Detail-oriented Data Scientist with 5 years of professional experience specializing in PyTorch and Python.
+
+EXPERIENCE
+Data Scientist | Solace Digital | 2 years
+- Built and maintained systems using SQL, Python, scikit-learn
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Bluepeak Labs | 3 years
+- Built and maintained systems using Statistics, PyTorch, TensorFlow
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Data Science, State University, 2018
+
+SKILLS
+PyTorch, SQL, Pandas, Machine Learning, TensorFlow, Statistics, scikit-learn, Python
+
+PROJECTS
+- Led a project applying PyTorch to improve system reliability
+- Contributed to open-source tooling related to SQL

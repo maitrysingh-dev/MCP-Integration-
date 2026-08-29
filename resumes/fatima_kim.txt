@@ -1,0 +1,32 @@
+Fatima Kim
+Email: fatima.kim@email.com | Phone: (555) 010-2235
+
+SUMMARY
+Software Engineer with 11 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+Software Engineer | Ridgeline AI | 3 years
+- Built and maintained systems using Docker, Java, Kubernetes
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Horizon Data | 4 years
+- Built and maintained systems using Java, Docker, AWS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Vertex Systems | 4 years
+- Built and maintained systems using Python, AWS, Docker
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Science, State University, 2010
+
+SKILLS
+SQL, Docker, Git, AWS, Python, REST APIs, Kubernetes, Java
+
+PROJECTS
+- Led a project applying Docker to improve system reliability
+- Contributed to open-source tooling related to SQL

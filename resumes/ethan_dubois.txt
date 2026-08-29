@@ -1,0 +1,32 @@
+Ethan Dubois
+Email: ethan.dubois@email.com | Phone: (555) 010-4841
+
+SUMMARY
+Detail-oriented UX Designer with 10 years of professional experience specializing in Wireframing and Figma.
+
+EXPERIENCE
+UX Designer | Solace Digital | 3 years
+- Built and maintained systems using Prototyping, Design Systems, HTML/CSS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+UX Designer | Cobalt Software | 3 years
+- Built and maintained systems using User Research, Prototyping, HTML/CSS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+UX Designer | Cobalt Software | 4 years
+- Built and maintained systems using Prototyping, Wireframing, Design Systems
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.A. in Design, State University, 2012
+
+SKILLS
+Wireframing, HTML/CSS, Design Systems, Prototyping, User Research, Figma
+
+PROJECTS
+- Led a project applying Design Systems to improve system reliability
+- Contributed to open-source tooling related to Design Systems

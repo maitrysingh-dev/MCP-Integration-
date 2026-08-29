@@ -1,0 +1,27 @@
+Sofia Kowalski
+Email: sofia.kowalski@email.com | Phone: (555) 010-7381
+
+SUMMARY
+Software Engineer with 3 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+Software Engineer | Fernwood Analytics | 1 years
+- Built and maintained systems using SQL, Kubernetes, Java
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Fernwood Analytics | 2 years
+- Built and maintained systems using Docker, AWS, Java
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Science, State University, 2021
+
+SKILLS
+Docker, AWS, SQL, Java, Kubernetes, Python
+
+PROJECTS
+- Led a project applying Kubernetes to improve system reliability
+- Contributed to open-source tooling related to Java

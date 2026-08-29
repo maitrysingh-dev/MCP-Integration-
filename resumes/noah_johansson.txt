@@ -1,0 +1,32 @@
+Noah Johansson
+Email: noah.johansson@email.com | Phone: (555) 010-9727
+
+SUMMARY
+ML Engineer with 9 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+ML Engineer | Solace Digital | 3 years
+- Built and maintained systems using PyTorch, Deep Learning, Machine Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Cobalt Software | 3 years
+- Built and maintained systems using NLP, PyTorch, Deep Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Bluepeak Labs | 3 years
+- Built and maintained systems using PyTorch, AWS, Deep Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2014
+
+SKILLS
+PyTorch, NLP, Machine Learning, AWS, Python, Deep Learning
+
+PROJECTS
+- Led a project applying NLP to improve system reliability
+- Contributed to open-source tooling related to Deep Learning

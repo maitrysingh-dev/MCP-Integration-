@@ -1,0 +1,27 @@
+Liam Sato
+Email: liam.sato@email.com | Phone: (555) 010-6169
+
+SUMMARY
+ML Engineer with 4 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+ML Engineer | Solace Digital | 2 years
+- Built and maintained systems using AWS, Deep Learning, Machine Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Horizon Data | 2 years
+- Built and maintained systems using Docker, Machine Learning, MLOps
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2020
+
+SKILLS
+Docker, MLOps, AWS, NLP, PyTorch, Machine Learning, Deep Learning
+
+PROJECTS
+- Led a project applying Machine Learning to improve system reliability
+- Contributed to open-source tooling related to PyTorch

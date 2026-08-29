@@ -1,0 +1,27 @@
+Sara Chen
+Email: sara.chen@email.com | Phone: (555) 010-8657
+
+SUMMARY
+Product Manager with 5 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+Product Manager | Fernwood Analytics | 2 years
+- Built and maintained systems using Agile, Jira, Product Strategy
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Product Manager | Ridgeline AI | 3 years
+- Built and maintained systems using Product Strategy, Agile, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+MBA, State University, 2018
+
+SKILLS
+Jira, SQL, A/B Testing, Agile, Stakeholder Management, Product Strategy
+
+PROJECTS
+- Led a project applying Stakeholder Management to improve system reliability
+- Contributed to open-source tooling related to Stakeholder Management

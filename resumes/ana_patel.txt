@@ -1,0 +1,22 @@
+Ana Patel
+Email: ana.patel@email.com | Phone: (555) 010-8744
+
+SUMMARY
+Detail-oriented Data Scientist with 2 years of professional experience specializing in Pandas and TensorFlow.
+
+EXPERIENCE
+Data Scientist | Solace Digital | 2 years
+- Built and maintained systems using Python, TensorFlow, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Data Science, State University, 2021
+
+SKILLS
+Pandas, Python, SQL, Machine Learning, TensorFlow
+
+PROJECTS
+- Led a project applying Machine Learning to improve system reliability
+- Contributed to open-source tooling related to Machine Learning

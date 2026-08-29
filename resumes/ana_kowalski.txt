@@ -1,0 +1,32 @@
+Ana Kowalski
+Email: ana.kowalski@email.com | Phone: (555) 010-4853
+
+SUMMARY
+Results-driven ML Engineer with 12 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+ML Engineer | Nimbus Tech | 4 years
+- Built and maintained systems using AWS, Python, MLOps
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Vertex Systems | 4 years
+- Built and maintained systems using PyTorch, Python, AWS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Vertex Systems | 4 years
+- Built and maintained systems using Machine Learning, Python, PyTorch
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2009
+
+SKILLS
+PyTorch, Machine Learning, NLP, Deep Learning, Python, Docker, MLOps, AWS
+
+PROJECTS
+- Led a project applying Machine Learning to improve system reliability
+- Contributed to open-source tooling related to Deep Learning

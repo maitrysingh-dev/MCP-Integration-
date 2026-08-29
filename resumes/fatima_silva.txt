@@ -1,0 +1,32 @@
+Fatima Silva
+Email: fatima.silva@email.com | Phone: (555) 010-4456
+
+SUMMARY
+ML Engineer with 11 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+ML Engineer | Fernwood Analytics | 3 years
+- Built and maintained systems using Docker, AWS, Deep Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Ridgeline AI | 4 years
+- Built and maintained systems using PyTorch, AWS, Deep Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+ML Engineer | Ridgeline AI | 4 years
+- Built and maintained systems using Machine Learning, Docker, PyTorch
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2011
+
+SKILLS
+PyTorch, AWS, Docker, Machine Learning, Deep Learning
+
+PROJECTS
+- Led a project applying AWS to improve system reliability
+- Contributed to open-source tooling related to Machine Learning

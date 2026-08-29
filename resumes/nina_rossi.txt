@@ -1,0 +1,22 @@
+Nina Rossi
+Email: nina.rossi@email.com | Phone: (555) 010-4571
+
+SUMMARY
+Results-driven ML Engineer with 2 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+ML Engineer | Vertex Systems | 2 years
+- Built and maintained systems using NLP, Python, Deep Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Computer Science, State University, 2019
+
+SKILLS
+Python, Machine Learning, Deep Learning, NLP, Docker
+
+PROJECTS
+- Led a project applying Deep Learning to improve system reliability
+- Contributed to open-source tooling related to Deep Learning

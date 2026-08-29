@@ -1,0 +1,32 @@
+Zoe Kim
+Email: zoe.kim@email.com | Phone: (555) 010-5557
+
+SUMMARY
+Results-driven Software Engineer with 12 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+Software Engineer | Nimbus Tech | 4 years
+- Built and maintained systems using Docker, Java, REST APIs
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Nimbus Tech | 4 years
+- Built and maintained systems using Kubernetes, Java, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Fernwood Analytics | 4 years
+- Built and maintained systems using Java, Python, Kubernetes
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Science, State University, 2012
+
+SKILLS
+Docker, Java, Git, Python, Kubernetes, REST APIs, SQL
+
+PROJECTS
+- Led a project applying SQL to improve system reliability
+- Contributed to open-source tooling related to SQL

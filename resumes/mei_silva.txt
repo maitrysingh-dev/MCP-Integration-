@@ -1,0 +1,32 @@
+Mei Silva
+Email: mei.silva@email.com | Phone: (555) 010-7311
+
+SUMMARY
+Results-driven Product Manager with 11 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+Product Manager | Cobalt Software | 3 years
+- Built and maintained systems using SQL, Agile, Product Strategy
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Product Manager | Fernwood Analytics | 4 years
+- Built and maintained systems using A/B Testing, Jira, Agile
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Product Manager | Fernwood Analytics | 4 years
+- Built and maintained systems using Product Strategy, Agile, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+MBA, State University, 2012
+
+SKILLS
+SQL, Stakeholder Management, A/B Testing, Roadmapping, Product Strategy, Jira, Agile
+
+PROJECTS
+- Led a project applying A/B Testing to improve system reliability
+- Contributed to open-source tooling related to SQL

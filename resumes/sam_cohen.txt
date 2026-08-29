@@ -1,0 +1,27 @@
+Sam Cohen
+Email: sam.cohen@email.com | Phone: (555) 010-2291
+
+SUMMARY
+Results-driven Product Manager with 5 years of experience building scalable systems and leading cross-functional projects.
+
+EXPERIENCE
+Product Manager | Ridgeline AI | 2 years
+- Built and maintained systems using Product Strategy, Jira, Agile
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Product Manager | Solace Digital | 3 years
+- Built and maintained systems using Jira, Agile, Roadmapping
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+MBA, State University, 2017
+
+SKILLS
+Agile, Roadmapping, Product Strategy, A/B Testing, Jira
+
+PROJECTS
+- Led a project applying Jira to improve system reliability
+- Contributed to open-source tooling related to Product Strategy

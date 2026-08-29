@@ -1,0 +1,32 @@
+Carlos Garcia
+Email: carlos.garcia@email.com | Phone: (555) 010-2988
+
+SUMMARY
+Detail-oriented DevOps Engineer with 7 years of professional experience specializing in CI/CD and Kubernetes.
+
+EXPERIENCE
+DevOps Engineer | Nimbus Tech | 2 years
+- Built and maintained systems using Kubernetes, CI/CD, Linux
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+DevOps Engineer | Horizon Data | 2 years
+- Built and maintained systems using Terraform, AWS, Python
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+DevOps Engineer | Solace Digital | 3 years
+- Built and maintained systems using CI/CD, Python, Terraform
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Engineering, State University, 2014
+
+SKILLS
+CI/CD, Terraform, Docker, Linux, Python, AWS, Kubernetes
+
+PROJECTS
+- Led a project applying Terraform to improve system reliability
+- Contributed to open-source tooling related to Kubernetes

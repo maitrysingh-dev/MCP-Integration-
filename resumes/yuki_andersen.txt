@@ -1,0 +1,32 @@
+Yuki Andersen
+Email: yuki.andersen@email.com | Phone: (555) 010-2638
+
+SUMMARY
+Software Engineer with 10 years of hands-on experience delivering high-impact products in fast-paced environments.
+
+EXPERIENCE
+Software Engineer | Horizon Data | 3 years
+- Built and maintained systems using Kubernetes, SQL, AWS
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Fernwood Analytics | 3 years
+- Built and maintained systems using SQL, Kubernetes, REST APIs
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Software Engineer | Ridgeline AI | 4 years
+- Built and maintained systems using Git, REST APIs, SQL
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+B.S. in Computer Science, State University, 2014
+
+SKILLS
+Git, SQL, Kubernetes, AWS, REST APIs
+
+PROJECTS
+- Led a project applying REST APIs to improve system reliability
+- Contributed to open-source tooling related to SQL

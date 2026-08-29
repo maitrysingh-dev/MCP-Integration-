@@ -1,0 +1,32 @@
+Raj Silva
+Email: raj.silva@email.com | Phone: (555) 010-5616
+
+SUMMARY
+Detail-oriented Data Scientist with 6 years of professional experience specializing in PyTorch and scikit-learn.
+
+EXPERIENCE
+Data Scientist | Cobalt Software | 2 years
+- Built and maintained systems using scikit-learn, PyTorch, Statistics
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Cobalt Software | 2 years
+- Built and maintained systems using PyTorch, TensorFlow, Machine Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+Data Scientist | Bluepeak Labs | 2 years
+- Built and maintained systems using PyTorch, TensorFlow, Machine Learning
+- Collaborated with cross-functional teams to ship features on schedule
+- Improved key performance metrics through targeted technical improvements
+
+
+EDUCATION
+M.S. in Data Science, State University, 2017
+
+SKILLS
+PyTorch, TensorFlow, Statistics, Machine Learning, scikit-learn
+
+PROJECTS
+- Led a project applying Statistics to improve system reliability
+- Contributed to open-source tooling related to TensorFlow
